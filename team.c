@@ -5,3 +5,4 @@ printf("i am linux developer");
 getch();
 }
 
+hello
